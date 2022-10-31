@@ -1,0 +1,128 @@
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+h2{
+  text-align: center;
+}
+.card-img-top {
+  padding: 15px;
+  height: 300px;
+  width: auto;
+}
+
+.place__holder__image {
+  width: 100%;
+}
+
+.Download-button {
+  margin-top: 30px;
+}
+
+#features {
+  padding: 7% 15%;
+  background-color: #bfbfbf;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #6b6b6b;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #212121;
+}
+
+#testimonials {
+  text-align: center;
+  color: #fff;
+  background-color: #212121;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+#press {
+  background-color: #bfbfbf;
+  padding-bottom: 5%;
+  padding-top: 7%;
+  text-align: center;
+}
+
+.logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.card-header {
+  text-align: center;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.whatsup {
+  text-align: center;
+}
+
+.abc:hover {
+  color: #ff4c68;
+}
+
+#pricing {
+  padding: 75px;
+  background-color: #212121;
+  color: #fff;
+}
+
+.card-coloor
+{
+  background-color: #212121;
+  color: #fff;
+}
+.bcd {
+  padding: 3%;
+}
+
+#cta {
+  text-align: center;
+  background-color: #bfbfbf;
+  color: #000;
+  padding: 7% 15%;
+}
+
+.sell {
+  font-size: 3.5rem;
+  font-family: 'Montserrat-Black';
+  line-height: 1.5;
+}
+
+#footer {
+  text-align: center;
+  background-color: #212121;
+}
+
+.social-icon {
+  align-items: center;
+  margin: 20px 10px;
+  color:#FFF;
+}
